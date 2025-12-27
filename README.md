@@ -28,8 +28,6 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları i
     streamlit run app.py
     ```
 
-## Metodoloji ve Performans
-
 Projede **Linear Regression** ve **Random Forest** algoritmaları kıyaslanmıştır.
 ---
 *Not: Bu proje akademik/eğitim amaçlı geliştirilmiştir. Finansal yatırım tavsiyesi içermez.*
